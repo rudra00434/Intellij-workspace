@@ -2,6 +2,10 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
+/shelf/
+/workspace.xml
 
 ### Eclipse ###
 .apt_generated
@@ -26,4 +30,9 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+
+
+
